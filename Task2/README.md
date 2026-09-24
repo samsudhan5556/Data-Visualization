@@ -119,4 +119,18 @@ pip install pandas numpy matplotlib seaborn
 
 - ## Output:
 - <img width="1137" height="580" alt="image" src="https://github.com/user-attachments/assets/01de2315-e475-48e8-8df2-a7c145993075" />
+<img width="1005" height="690" alt="image" src="https://github.com/user-attachments/assets/3ebd2b0c-6208-4ab8-9200-799e9cb77e35" />
+<img width="805" height="585" alt="image" src="https://github.com/user-attachments/assets/4bf78822-d39a-405f-9861-a82fda2edc03" />
+<img width="742" height="572" alt="image" src="https://github.com/user-attachments/assets/f11f2749-2c6d-4f34-9d90-520b78b6f2a5" />
+<img width="776" height="515" alt="image" src="https://github.com/user-attachments/assets/35b316fd-714b-4dc0-ae34-c8c6bc1e880a" />
+<img width="785" height="551" alt="image" src="https://github.com/user-attachments/assets/6b56dde2-2417-453d-8987-68552eafcd80" />
+<img width="760" height="541" alt="image" src="https://github.com/user-attachments/assets/c2370797-b318-44cd-aaf2-f5c9ea5dc93a" />
+<img width="752" height="637" alt="image" src="https://github.com/user-attachments/assets/ec210be3-8674-4324-a1dc-fbdabbbce786" />
+
+
+
+
+
+
+
 
