@@ -90,3 +90,11 @@ pip install pandas matplotlib seaborn openpyxl
 - Compare Close and Adj Close to show the effect of dividends
 - Plot volume alongside price to study their relationship
 - Build a simple forecasting model for future closing prices
+
+- ## Output:
+- <img width="1280" height="681" alt="image" src="https://github.com/user-attachments/assets/cfcc438a-8ff8-445a-afac-5e27de28bce4" />
+<img width="1272" height="576" alt="image" src="https://github.com/user-attachments/assets/46884773-5de0-4c4d-9107-4fec2d435191" />
+<img width="1057" height="696" alt="image" src="https://github.com/user-attachments/assets/e1b86029-4d47-43a1-9061-bb02925da41c" />
+
+
+
