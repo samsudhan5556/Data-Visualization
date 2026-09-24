@@ -86,3 +86,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 - Study the effect of discounts on profit
 - Analyze sales trends over time using order dates
 - Train a regression model to predict profit
+
+- ## Output :
+- <img width="756" height="473" alt="image" src="https://github.com/user-attachments/assets/b05ee7e8-46ad-4add-804c-e296adcc9617" />
+<img width="742" height="582" alt="image" src="https://github.com/user-attachments/assets/0581bc03-f324-4ede-9ebd-1647a32a31c5" />
+
+
