@@ -116,3 +116,7 @@ pip install pandas numpy matplotlib seaborn
 - Monthly and yearly sales trends using the order date
 - Identifying loss-making products and customers
 - Building a regression model to predict profit
+
+- ## Output:
+- <img width="1137" height="580" alt="image" src="https://github.com/user-attachments/assets/01de2315-e475-48e8-8df2-a7c145993075" />
+
