@@ -89,3 +89,9 @@ pip install pandas matplotlib seaborn
 - Visualize age distribution and test results by condition
 - Extend the heatmap to more numeric fields, such as hospital stay length
 - Analyze admissions by hospital or doctor
+
+- ##Output:
+- <img width="1301" height="627" alt="image" src="https://github.com/user-attachments/assets/4d581675-ae7c-4a1f-a2b1-63aa9a3eb4d3" />
+<img width="702" height="552" alt="image" src="https://github.com/user-attachments/assets/6ed989f0-baa1-415d-9510-1a9f0e31d6eb" />
+
+
